@@ -9,7 +9,7 @@ This repository contains the code for my personal website, which serves as a pla
 - **Contact:** Offering ways to get in touch with me.
 
 ## Technologies Used:
-- React.js
+- React JS
 - Tailwind CSS
 
 **Website Link:** [Personal Website](https://abineshsrinivasan.netlify.app/)

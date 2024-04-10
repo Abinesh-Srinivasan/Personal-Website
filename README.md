@@ -1,8 +1,17 @@
-# React + Vite
+### Personal Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the code for my personal website, which serves as a platform to share information about myself, my experience, and the services I offer.
 
-Currently, two official plugins are available:
+#### Features:
+- **About Me:** Providing a brief introduction and overview of my background.
+- **Experience:** Detailing my professional experience, including past roles and projects.
+- **Services:** Describing the services I offer or skills I possess.
+- **Contact:** Offering ways to get in touch with me.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### Technologies Used:
+- React.js
+- Tailwind CSS
+
+**Website Link:** [Personal Website](https://abineshsrinivasan.netlify.app/)
+
+Feel free to explore the website and reach out to me with any inquiries or feedback!

@@ -1,4 +1,4 @@
-import Abinesh from "../../assets/Abinesh.png";
+import Abinesh from "../../assets/Abinesh3.png";
 import TextAnimation from "./TextAnimation";
 const HomeContent = () => {
   const email = "abineshsrinivasan1301@gmail.com";

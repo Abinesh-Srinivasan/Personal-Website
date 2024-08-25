@@ -18,10 +18,10 @@ const AboutContent = () => {
           <p className=" text-homeboldtext text-lg lg:text-2xl">
             <TextAnimation
               texts={[
+                "Full Stack Web Developer",
                 "Intensive Programmer",
-                "Hodophile",
                 "Leetcode Problem Solver",
-                "Passionate Front-End Developer",
+                "MERN Stack Developer",
               ]}
             />
           </p>
@@ -119,7 +119,7 @@ const AboutContent = () => {
             <p className=" text-homesmalltext tracking-wider">YEARS OF EXPERIENCE</p>
         </div>
         <div data-aos='fade-up' style={{width:"21.4rem"}} className="BOX2 bg-aboutbox2bg h-40 rounded flex flex-col items-center justify-center gap-1">
-            <p className=" text-homeboldtext font-bold text-4xl">10 +</p>
+            <p className=" text-homeboldtext font-bold text-4xl">12 +</p>
             <p className=" text-homesmalltext tracking-wider">PROJECTS COMPLETED</p>
         </div>
         <div data-aos='fade-up' style={{width:"21.4rem"}} className="BOX3 bg-aboutbox3bg h-40 rounded flex flex-col items-center justify-center gap-1">

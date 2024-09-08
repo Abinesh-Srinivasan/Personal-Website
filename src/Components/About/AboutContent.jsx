@@ -20,8 +20,9 @@ const AboutContent = () => {
               texts={[
                 "Full Stack Web Developer",
                 "Intensive Programmer",
-                "Leetcode Problem Solver",
+                "Cybersecurity Enthusiast",
                 "MERN Stack Developer",
+                "DSA Problem Solver",
               ]}
             />
           </p>
@@ -123,7 +124,7 @@ const AboutContent = () => {
             <p className=" text-homesmalltext tracking-wider">PROJECTS COMPLETED</p>
         </div>
         <div data-aos='fade-up' style={{width:"21.4rem"}} className="BOX3 bg-aboutbox3bg h-40 rounded flex flex-col items-center justify-center gap-1">
-            <p className=" text-homeboldtext font-bold text-4xl">2K +</p>
+            <p className=" text-homeboldtext font-bold text-4xl">2.5K +</p>
             <p className=" text-homesmalltext tracking-wider ">LINKEDIN CONNECTIONS</p>
         </div>
       </div>

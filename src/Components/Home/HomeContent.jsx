@@ -17,8 +17,8 @@ const HomeContent = () => {
               texts={[
                 "Creative Coder",
                 "Website Developer",
-                "CS Student",
-                "Tech Enthusiast",
+                "CSE Student",
+                "Tech Addict",
                 "Web Freelancer",
               ]}
             />
@@ -27,7 +27,7 @@ const HomeContent = () => {
           </div>
           <div className="text-base  w-68 tracking-wide leading-8 text-homesmalltext pr-5 lg:-mt-5">
             <p>
-              I'm a React based Web Developer & <br /> Computer Science Student
+              I'm a MERN based Web Developer & <br /> Computer Science Student
               with{" "}
               <span className=" text-navviolet">
                 {new Date().getFullYear() - 2023}+ years

@@ -15,11 +15,11 @@ const HomeContent = () => {
             </p>
             <TextAnimation
               texts={[
-                "Creative Coder",
-                "Website Developer",
-                "CSE Student",
-                "Tech Addict",
-                "Web Freelancer",
+                "Web Developer",
+                "ML Learner",
+                "CS Student",
+                "App Developer",
+                "Finance Buff",
               ]}
             />
             {/* <p>Creative Coder</p> */}

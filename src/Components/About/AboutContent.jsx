@@ -20,9 +20,10 @@ const AboutContent = () => {
               texts={[
                 "Full Stack Web Developer",
                 "Intensive Programmer",
+                "React Native App Developer",
                 "Cybersecurity Enthusiast",
                 "MERN Stack Developer",
-                "DSA Problem Solver",
+                "DS-Algo Solver",
               ]}
             />
           </p>
@@ -114,18 +115,40 @@ const AboutContent = () => {
           </p>
         </div>
       </div>
-      <div data-aos='fade-up' className="BOXES flex flex-col gap-10 mt-10 lg:flex-row">
-        <div style={{width:"21.4rem"}} className="BOX1 bg-aboutbox1bg h-40 rounded flex flex-col items-center justify-center gap-1">
-            <p className=" text-homeboldtext font-bold text-4xl">{new Date().getFullYear()-2023} +</p>
-            <p className=" text-homesmalltext tracking-wider">YEARS OF EXPERIENCE</p>
+      <div
+        data-aos="fade-up"
+        className="BOXES flex flex-col gap-10 mt-10 lg:flex-row"
+      >
+        <div
+          style={{ width: "21.4rem" }}
+          className="BOX1 bg-aboutbox1bg h-40 rounded flex flex-col items-center justify-center gap-1"
+        >
+          <p className=" text-homeboldtext font-bold text-4xl">
+            {new Date().getFullYear() - 2023} +
+          </p>
+          <p className=" text-homesmalltext tracking-wider">
+            YEARS OF EXPERIENCE
+          </p>
         </div>
-        <div data-aos='fade-up' style={{width:"21.4rem"}} className="BOX2 bg-aboutbox2bg h-40 rounded flex flex-col items-center justify-center gap-1">
-            <p className=" text-homeboldtext font-bold text-4xl">12 +</p>
-            <p className=" text-homesmalltext tracking-wider">PROJECTS COMPLETED</p>
+        <div
+          data-aos="fade-up"
+          style={{ width: "21.4rem" }}
+          className="BOX2 bg-aboutbox2bg h-40 rounded flex flex-col items-center justify-center gap-1"
+        >
+          <p className=" text-homeboldtext font-bold text-4xl">15 +</p>
+          <p className=" text-homesmalltext tracking-wider">
+            PROJECTS COMPLETED
+          </p>
         </div>
-        <div data-aos='fade-up' style={{width:"21.4rem"}} className="BOX3 bg-aboutbox3bg h-40 rounded flex flex-col items-center justify-center gap-1">
-            <p className=" text-homeboldtext font-bold text-4xl">2.5K +</p>
-            <p className=" text-homesmalltext tracking-wider ">LINKEDIN CONNECTIONS</p>
+        <div
+          data-aos="fade-up"
+          style={{ width: "21.4rem" }}
+          className="BOX3 bg-aboutbox3bg h-40 rounded flex flex-col items-center justify-center gap-1"
+        >
+          <p className=" text-homeboldtext font-bold text-4xl">2.6K +</p>
+          <p className=" text-homesmalltext tracking-wider ">
+            LINKEDIN CONNECTIONS
+          </p>
         </div>
       </div>
     </div>

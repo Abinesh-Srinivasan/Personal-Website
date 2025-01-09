@@ -20,7 +20,7 @@ const AboutContent = () => {
               texts={[
                 "Full Stack Web Developer",
                 "Intensive Programmer",
-                "React Native App Developer",
+                // "React Native App Developer",
                 "Cybersecurity Enthusiast",
                 "MERN Stack Developer",
                 "DS-Algo Solver",

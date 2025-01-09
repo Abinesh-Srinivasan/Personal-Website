@@ -18,7 +18,7 @@ const HomeContent = () => {
                 "Web Developer",
                 "ML Learner",
                 "CS Student",
-                "App Developer",
+                // "App Developer",
                 "Finance Buff",
               ]}
             />
